@@ -32,3 +32,7 @@ Este programa fue creado con el propósito de facilitar el control de LEDs conec
 
 ---
 Nixon Control Arduino
+
+## Licencia
+
+Este proyecto está licenciado bajo los términos de la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
